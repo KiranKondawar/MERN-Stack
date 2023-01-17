@@ -1,2 +1,2 @@
-# MERN-Stack
-TIX-FIX
+Movie Ticket Booking System
+MERN Stack Technology
